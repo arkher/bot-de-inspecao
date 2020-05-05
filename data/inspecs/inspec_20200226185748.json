@@ -1,0 +1,33 @@
+{
+    "code": "20200226185748",
+    "trafo": "Sem placa",
+    "created_at": "26/02/2020",
+    "last_update": "26/02/2020",
+    "latitude": -2.516837,
+    "longitude": -44.246007,
+    "defects": [
+        {
+            "flow": [
+                "Acesso",
+                "Área alagada",
+                "Temporário"
+            ],
+            "photos": []
+        },
+        {
+            "flow": [
+                "Aterramento",
+                "Inadequado",
+                "Para raio",
+                "Estourado"
+            ],
+            "photos": []
+        },
+        {
+            "flow": [
+                "Uso mútuo"
+            ],
+            "photos": []
+        }
+    ]
+}

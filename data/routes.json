@@ -1,0 +1,586 @@
+{
+  "root": [
+    {
+      "content": "Acesso",
+      "type": "node",
+      "children": [
+        {
+          "content": "Área alagada",
+          "type": "node",
+          "children": [
+            {
+              "content": "Temporário",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Permanente",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Voltar",
+              "type": "control",
+              "children": []
+            }
+          ]
+        },
+        {
+          "content": "Outra dificuldade de acesso",
+          "type": "node",
+          "children": [
+            {
+              "content": "Impedida pelo proprietário",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Outros",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Ponte danificada",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Voltar",
+              "type": "control",
+              "children": []
+            }
+          ]
+        },
+        {
+          "content": "Voltar",
+          "type": "control",
+          "children": []
+        }
+      ]
+    },
+    {
+      "content": "Aterramento",
+      "type": "node",
+      "children": [
+        {
+          "content": "Danificado",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Inadequado",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Inexistente",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Voltar",
+          "type": "control",
+          "children": []
+        }
+      ]
+    },
+    {
+      "content": "Chaves",
+      "type": "node",
+      "children": [
+        {
+          "content": "By-Pass",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Chave faca",
+          "type": "node",
+          "children": [
+            {
+              "content": "By passada",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Desalinhada",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Desativada",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Oxidação",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Quebrada/Trincada",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Poluído",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Voltar",
+              "type": "control",
+              "children": []
+            }
+          ]
+        },
+        {
+          "content": "Chave fusível",
+          "type": "node",
+          "children": [
+            {
+              "content": "Oxidação",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Quebrada/Trincada",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Desalinhada",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "By passada",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Porta fusível",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Desativada",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Poluído",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Voltar",
+              "type": "control",
+              "children": []
+            }
+          ]
+        },
+        {
+          "content": "Voltar",
+          "type": "control",
+          "children": []
+        }
+      ]
+    },
+    {
+      "content": "Condutor",
+      "type": "node",
+      "children": [
+        {
+          "content": "Espaçador",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Objeto na rede",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Vão",
+          "type": "node",
+          "children": [
+            {
+              "content": "Baixo",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Longo",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Desnivelado",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Voltar",
+              "type": "control",
+              "children": []
+            }
+          ]
+        },
+        {
+          "content": "Alça/Laço",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Jumper",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Emendas",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Fim de vida útil",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Capa protetora",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Poluído",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Cabo mensageiro",
+          "type": "node",
+          "children": [
+            {
+              "content": "Danificado",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Desnivelado",
+              "type": "node",
+              "children": []
+            },
+            {
+              "content": "Voltar",
+              "type": "control",
+              "children": []
+            }
+          ]
+        },
+        {
+          "content": "Voltar",
+          "type": "control",
+          "children": []
+        }
+      ]
+    },
+    {
+      "content": "Conexão",
+      "type": "node",
+      "children": [
+        {
+          "content": "Fly-Tap",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Bucha transformador",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Chave faca",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Chave fusível",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Isolador",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Jumper",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Aterramento",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Ramal",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Espaçador",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Voltar",
+          "type": "control",
+          "children": []
+        }
+      ]
+    },
+    {
+      "content": "Estrutura",
+      "type": "node",
+      "children": [
+        {
+          "content": "Cruzeta",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Armação secundária",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Poste danificado",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Poste inclinado",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Poste local inadequado",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Estai",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Poste inadequado",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Voltar",
+          "type": "control",
+          "children": []
+        }
+      ]
+    },
+    {
+      "content": "Isolador",
+      "type": "node",
+      "children": [
+        {
+          "content": "Vazamento",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Quebrado/Trincado",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Poluído",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Oxidado",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Inexistente",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Dasalinhado",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Voltar",
+          "type": "control",
+          "children": []
+        }
+      ]
+    },
+    {
+      "content": "Para raio",
+      "type": "node",
+      "children": [
+        {
+          "content": "Desconectado",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Estourado",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Inexistente",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Trincado",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Oxidado",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Voltar",
+          "type": "control",
+          "children": []
+        }
+      ]
+    },
+    {
+      "content": "Sinalização",
+      "type": "node",
+      "children": [
+        {
+          "content": "Identificação inexistente",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Identificação inadequada",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Pintura",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Voltar",
+          "type": "control",
+          "children": []
+        }
+      ]
+    },
+    {
+      "content": "Transformador",
+      "type": "node",
+      "children": [
+        {
+          "content": "Bucha danificada",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Bucha com vazamento",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Tanque com vazamento",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Radiador com vazamento",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Sobrecarga",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Subtensão",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Trafo oxidado",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Suporte oxidado",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Poluído",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Voltar",
+          "type": "control",
+          "children": []
+        }
+      ]
+    },
+    {
+      "content": "Uso mútuo",
+      "type": "node",
+      "children": []
+    },
+    {
+      "content": "Vegetação",
+      "type": "node",
+      "children": [
+        {
+          "content": "Próxima a rede",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Tocando na rede",
+          "type": "node",
+          "children": []
+        },
+        {
+          "content": "Voltar",
+          "type": "control",
+          "children": []
+        }
+      ]
+    },
+    {
+      "content": "Cancelar inspeção",
+      "type": "control",
+      "children": []
+    },
+    {
+      "content": "Finalizar inspeção",
+      "type": "control",
+      "children": []
+    }
+  ]
+}
